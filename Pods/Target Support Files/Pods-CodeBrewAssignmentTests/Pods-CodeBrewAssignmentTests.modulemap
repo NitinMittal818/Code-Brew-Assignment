@@ -1,0 +1,6 @@
+framework module Pods_CodeBrewAssignmentTests {
+  umbrella header "Pods-CodeBrewAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
